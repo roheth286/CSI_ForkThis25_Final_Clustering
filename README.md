@@ -75,4 +75,4 @@ source ./activate
 ```
 pip install -r requirements.txt
 ```
-
+Additional dependencies are listed in the import statements at the beginning of the script.
